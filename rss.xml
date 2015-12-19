@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[HuckleberryInk]]></title>
         <description><![CDATA[HuckleberryInk]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/huckleberryink/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 18:05:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Dec 2015 18:08:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/huckleberryink/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Q&A: John Grisham - 'My most embarrassing moment? It involved the passing of gas in church']]></title>
+            <description><![CDATA[<article><h1>Q&A: John Grisham - 'My most embarrassing moment? It involved the passing of gas in church'</h1><p>Born in Arkansas, John Grisham, 60, worked as a lawyer before his first legal thriller, A Time To Kill, was published in 1989. His next, The Firm, became the bestselling novel of 1991, and he has since written a novel a year, many going on to become films. His latest is Rogue Lawyer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75ab85e6e245237e21688ab778de93fda5e84e4d.jpg"></article>]]></description>
+            <link>http://www.theguardian.com/lifeandstyle/2015/dec/19/john-grisham-q-and-a</link>
+            <guid isPermaLink="false">16eecc83-1871-4ece-9bd5-aef5b9513aa1</guid>
+            <pubDate>Sat, 19 Dec 2015 18:08:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Me]]></title>
             <description><![CDATA[<h1>About Me</h1>]]></description>
-            <link>undefinedabout-me/index.html</link>
+            <link>https://thegrid.ai/huckleberryink/about-me/index.html</link>
             <guid isPermaLink="false">814a0861-f6c2-4a16-82ba-d151af4a2f62</guid>
             <pubDate>Sat, 19 Dec 2015 18:05:07 GMT</pubDate>
         </item>
